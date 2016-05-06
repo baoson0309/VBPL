@@ -1,0 +1,8 @@
+E:\[Code]\Dropbox\VBPL2\VBPL2\bin\Debug\VBPL2.exe.config
+E:\[Code]\Dropbox\VBPL2\VBPL2\bin\Debug\VBPL2.exe
+E:\[Code]\Dropbox\VBPL2\VBPL2\bin\Debug\VBPL2.pdb
+E:\[Code]\Dropbox\VBPL2\VBPL2\obj\Debug\VBPL2.csprojResolveAssemblyReference.cache
+E:\[Code]\Dropbox\VBPL2\VBPL2\obj\Debug\VBPL2.Properties.Resources.resources
+E:\[Code]\Dropbox\VBPL2\VBPL2\obj\Debug\VBPL2.csproj.GenerateResource.Cache
+E:\[Code]\Dropbox\VBPL2\VBPL2\obj\Debug\VBPL2.exe
+E:\[Code]\Dropbox\VBPL2\VBPL2\obj\Debug\VBPL2.pdb
